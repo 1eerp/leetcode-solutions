@@ -14,7 +14,7 @@ Check Mark
 [:white_check_mark:]()
 
 Cross Mark
-[:white_check_mark:]()
+[:x:]()
  -->
 
 
@@ -25,3 +25,4 @@ Cross Mark
 | #387 [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p387.cpp) |
 | #49 [Group Anagrams](https://leetcode.com/problems/group-anagrams) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p47.cpp)|
 | #451 [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p451.cpp)|
+| #647[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | ![< Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p647.cpp)|
