@@ -21,10 +21,11 @@ Cross Mark
 | LeetCode Problem | Difficulty | Solutions |
 | :---: | :---: | :---: |
 | #150 [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:  ](solutions/p150.cpp)|
-| #76 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | ![< Badge>](https://img.shields.io/badge/-Hard-red) |[:white_check_mark:](solutions/p76.cpp) |
+| #76 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | ![<Hard Badge>](https://img.shields.io/badge/-Hard-red) |[:white_check_mark:](solutions/p76.cpp) |
 | #387 [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p387.cpp) |
 | #49 [Group Anagrams](https://leetcode.com/problems/group-anagrams) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p47.cpp)|
 | #451 [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p451.cpp)|
-| #647 [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | ![< Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p647.cpp)|
-| #2149 [Rearrange array elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | ![< Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p2149.cpp)|
-| #2971 [Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter) | ![<Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p2971.cpp)|
+| #647 [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p647.cpp)|
+| #2149 [Rearrange array elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p2149.cpp)|
+| #2971 [Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p2971.cpp)|
+| #1481 [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p1481.cpp)|
