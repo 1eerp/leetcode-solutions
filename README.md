@@ -29,3 +29,4 @@ Cross Mark
 | #2149 [Rearrange array elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p2149.cpp)|
 | #2971 [Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p2971.cpp)|
 | #1481 [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p1481.cpp)|
+| #2402 [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii) | ![<Hard Badge>](https://img.shields.io/badge/-Hard-red) |[:white_check_mark:](solutions/p2402.cpp)|
