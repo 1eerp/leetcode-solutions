@@ -35,5 +35,6 @@ Cross Mark
 | #62 [Unique Paths](https://leetcode.com/problems/unique-paths) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p62.cpp)|
 | #11 [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p11.cpp)|
 | #2092 [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret) | ![<Hard Badge>](https://img.shields.io/badge/-Hard-red) |[:white_check_mark:](solutions/p2092.cpp)|
-| #100 [Same Tree](https://leetcode.com/problems/same-tree) | ![< Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p100.cpp)|
-| #64 [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | ![< Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p64.cpp)|
+| #100 [Same Tree](https://leetcode.com/problems/same-tree) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p100.cpp)|
+| #64 [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p64.cpp)|
+| #513 [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p513.cpp)|
