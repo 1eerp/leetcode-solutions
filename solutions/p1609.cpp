@@ -1,5 +1,4 @@
 #include "common.h"
-#include "leetcode.h"
 
 bool isEvenOddTree(TreeNode* root) {
 	bool evenLevel = true;

@@ -1,5 +1,4 @@
 #include "common.h"
-#include "leetcode.h"
 
 class FBLVSolution {
 public:

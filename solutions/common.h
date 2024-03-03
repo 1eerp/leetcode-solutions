@@ -11,4 +11,6 @@
 #include <memory>
 #include <exception>
 #include <cmath>
+#include "leetcode.h"
+
 using namespace std;
