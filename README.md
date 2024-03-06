@@ -44,3 +44,4 @@ Cross Mark
 | #19 [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p19.cpp)|
 | #948 [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p948.cpp)|
 | #1750 [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p1750.cpp)|
+| #141 [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | ![<Medium Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p141.cpp)|
