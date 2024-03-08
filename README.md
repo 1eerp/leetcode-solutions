@@ -47,3 +47,4 @@ Cross Mark
 | #141 [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p141.cpp)|
 | #876 [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p876.cpp)|
 | #3005 [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p3005.cpp)|
+| #221 [Maximal Square](https://leetcode.com/problems/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p221.cpp)|
