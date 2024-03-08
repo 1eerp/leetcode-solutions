@@ -46,4 +46,4 @@ Cross Mark
 | #1750 [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p1750.cpp)|
 | #141 [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p141.cpp)|
 | #876 [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p876.cpp)|
-
+| #3005 [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p3005.cpp)|
