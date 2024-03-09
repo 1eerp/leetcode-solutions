@@ -48,3 +48,4 @@ Cross Mark
 | #876 [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p876.cpp)|
 | #3005 [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p3005.cpp)|
 | #221 [Maximal Square](https://leetcode.com/problems/) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p221.cpp)|
+| #2540 [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p2540.cpp)|
