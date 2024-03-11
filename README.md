@@ -51,3 +51,4 @@ Cross Mark
 | #2540 [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p2540.cpp)|
 | #5 [Longest Palindromic Substric](https://leetcode.com/problems/longest-palindromic-substring) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p5.cpp)|
 | #349 [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p349.cpp)|
+| #791 [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p791.cpp)|
