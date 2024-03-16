@@ -55,3 +55,4 @@ Cross Mark
 | #1071 [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p1071.cpp)|
 | #2485 [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p2485.cpp)|
 | #345 [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p345.cpp)|
+| #151 [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p151.cpp)|
