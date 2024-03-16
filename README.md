@@ -56,3 +56,4 @@ Cross Mark
 | #2485 [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p2485.cpp)|
 | #345 [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | ![<Easy Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p345.cpp)|
 | #151 [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p151.cpp)|
+| #525 [Contiguous Arrays](https://leetcode.com/problems/contiguous-array) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p525.cpp)|
