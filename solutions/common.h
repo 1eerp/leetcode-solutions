@@ -7,6 +7,7 @@
 #include <map>
 #include <unordered_map>
 #include <list>
+#include <bitset>
 #include <iostream>
 #include <algorithm>
 #include <memory>
