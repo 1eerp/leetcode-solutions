@@ -66,3 +66,4 @@ Cross Mark
 | #234 [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | ![<Medium Badge>](https://img.shields.io/badge/-Easy-green) |[:white_check_mark:](solutions/p234.cpp)|
 | #143 [Reorder List](https://leetcode.com/problems/reorder-List) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p143.cpp)|
 | #287 [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p287.cpp)|
+| #442 [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p442.cpp)|
