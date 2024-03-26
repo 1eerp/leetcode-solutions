@@ -67,3 +67,4 @@ Cross Mark
 | #143 [Reorder List](https://leetcode.com/problems/reorder-List) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p143.cpp)|
 | #287 [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p287.cpp)|
 | #442 [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | ![<Medium Badge>](https://img.shields.io/badge/-Medium-yellow) |[:white_check_mark:](solutions/p442.cpp)|
+| #41 [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | ![<Hard Badge>](https://img.shields.io/badge/-Hard-red) |[:white_check_mark:](solutions/p41.cpp)|
