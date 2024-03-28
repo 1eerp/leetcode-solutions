@@ -13,7 +13,7 @@ int maxSubarrayLength(vector<int>& nums, int k) {
 		}
 		else
 		{
-			while(freq[nums[r]] == k && l < r)
+			while(freq[nums[r]] == k)
 				freq[nums[l++]]--;
 		}
 	}
